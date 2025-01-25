@@ -21,15 +21,19 @@ buildディレクトリに書き出された本番ソースコードをサーバ
    ```bash
    git clone https://github.com/uk-030/myu-sotsuten2024.git
    ```
-2. パッケージインストール
+2. クローンしたフォルダディレクトリへ移動
+   ```bash
+   cd myu-sotsuten2024
+   ```
+3. パッケージインストール
    ```bash
    pnpm install
    ```
-3. 開発サーバー起動
+4. 開発サーバー起動
    ```bash
    pnpm dev
    ```
-4. `http://localhost:5173`にアクセス
+5. `http://localhost:5173`にアクセス
 
 ## コマンド
 
