@@ -1,0 +1,342 @@
+[
+  {
+    "number": 22020033,
+    "name": "遠藤彩香",
+    "lab": "ito"
+  },
+  {
+    "number": 22020042,
+    "name": "岡本泰己",
+    "lab": "ito"
+  },
+  {
+    "number": 22020047,
+    "name": "小野菜々美",
+    "lab": "ito"
+  },
+  {
+    "number": 22020107,
+    "name": "庄子陽果",
+    "lab": "ito"
+  },
+  {
+    "number": 22020126,
+    "name": "副島碧",
+    "lab": "ito"
+  },
+  {
+    "number": 22020080,
+    "name": "後藤香乃",
+    "lab": "ito"
+  },
+  {
+    "number": 22020144,
+    "name": "中嶋希美",
+    "lab": "ito"
+  },
+  {
+    "number": 22020170,
+    "name": "眞木愛乃音",
+    "lab": "ito"
+  },
+  {
+    "number": 22020189,
+    "name": "屋島希美",
+    "lab": "ito"
+  },
+  {
+    "number": 22020194,
+    "name": "山岸茉歩",
+    "lab": "ito"
+  },
+  {
+    "number": 22020005,
+    "name": "浅野尊",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020050,
+    "name": "小埜寺駿",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020089,
+    "name": "佐々木理夫",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020098,
+    "name": "佐藤菜々夏",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020134,
+    "name": "田中瑞",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020147,
+    "name": "中山侑香",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020153,
+    "name": "間顕一郎",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020174,
+    "name": "松藤竜登",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020193,
+    "name": "山形百加",
+    "lab": "kochizawa"
+  },
+  {
+    "number": 22020017,
+    "name": "伊澤友樹",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020060,
+    "name": "萱場真愛",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020076,
+    "name": "黒須茉子",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020090,
+    "name": "佐々木萌音",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020136,
+    "name": "中鉢咲希",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020175,
+    "name": "松本涼花",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020014,
+    "name": "天内ほのか",
+    "lab": "suzuki"
+  },
+  {
+    "number": 22020138,
+    "name": "鶴田詩乃",
+    "lab": "toki"
+  },
+  {
+    "number": 22020140,
+    "name": "照井麻美弥",
+    "lab": "toki"
+  },
+  {
+    "number": 22020166,
+    "name": "平山正悟",
+    "lab": "toki"
+  },
+  {
+    "number": 22020169,
+    "name": "本田涼夏",
+    "lab": "toki"
+  },
+  {
+    "number": 21820107,
+    "name": "宍戸大祐",
+    "lab": "nakata"
+  },
+  {
+    "number": 21920028,
+    "name": "伊藤華乃",
+    "lab": "nakata"
+  },
+  {
+    "number": 21920129,
+    "name": "高橋啓吾",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020007,
+    "name": "安住天希",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020063,
+    "name": "河西龍星",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020074,
+    "name": "久保秋乃",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020198,
+    "name": "山田梨央",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020078,
+    "name": "小出乃維",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020053,
+    "name": "嘉指乙華",
+    "lab": "nakata"
+  },
+  {
+    "number": 22020002,
+    "name": "相澤舞佳",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020020,
+    "name": "石川諒",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020058,
+    "name": "亀井渚央",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020065,
+    "name": "菅野想",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020110,
+    "name": "神美希",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020129,
+    "name": "高橋幹大",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020131,
+    "name": "髙橋ななは",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020158,
+    "name": "針生啓太",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020178,
+    "name": "三浦舞子",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020188,
+    "name": "矢口凜",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020195,
+    "name": "山口梓",
+    "lab": "hiraoka"
+  },
+  {
+    "number": 22020003,
+    "name": "相澤佑斗",
+    "lab": "tomobuchi"
+  },
+  {
+    "number": 22020036,
+    "name": "及川和怜",
+    "lab": "tomobuchi"
+  },
+  {
+    "number": 22020004,
+    "name": "上石美羽",
+    "lab": "sato"
+  },
+  {
+    "number": 22020106,
+    "name": "柴田雅敏",
+    "lab": "sato"
+  },
+  {
+    "number": 22020125,
+    "name": "相馬悠",
+    "lab": "sato"
+  },
+  {
+    "number": 22020128,
+    "name": "髙橋亜美",
+    "lab": "sato"
+  },
+  {
+    "number": 22020172,
+    "name": "松川かの子",
+    "lab": "sato"
+  },
+  {
+    "number": 22020196,
+    "name": "山崎実莉",
+    "lab": "sato"
+  },
+  {
+    "number": 22020200,
+    "name": "ヤンハイレイ",
+    "lab": "sato"
+  },
+  {
+    "number": 22020021,
+    "name": "石幡明日香",
+    "lab": "suguri"
+  },
+  {
+    "number": 22020088,
+    "name": "佐々木啓豪",
+    "lab": "suguri"
+  },
+  {
+    "number": 21820087,
+    "name": "佐々木哉瑠",
+    "lab": "suguri"
+  },
+  {
+    "number": 22020017,
+    "name": "伊澤朋樹",
+    "lab": "usui"
+  },
+  {
+    "number": 22020145,
+    "name": "中村駿太",
+    "lab": "usui"
+  },
+  {
+    "number": 22020038,
+    "name": "及川那知",
+    "lab": "usui"
+  },
+  {
+    "number": 22020086,
+    "name": "齋藤凌雅",
+    "lab": "makanae"
+  },
+  {
+    "number": 22020009,
+    "name": "渥美侑人",
+    "lab": "makanae"
+  },
+  {
+    "number": 22020084,
+    "name": "小松風翔",
+    "lab": "makanae"
+  }
+]
