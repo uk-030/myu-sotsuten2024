@@ -30,11 +30,6 @@
     "course": "kansei"
   },
   {
-    "id": "suzuki",
-    "name": "鈴木研究室",
-    "course": "kansei"
-  },
-  {
     "id": "toki",
     "name": "土岐研究室",
     "course": "seikastu"
@@ -43,6 +38,11 @@
     "id": "tomobuchi",
     "name": "友渕研究室",
     "course": "seikastu"
+  },
+  {
+    "id": "suzuki",
+    "name": "鈴木研究室",
+    "course": "kansei"
   },
   {
     "id": "sato",
