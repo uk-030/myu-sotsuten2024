@@ -53,5 +53,25 @@
     "id": "usui",
     "name": "薄井研究室",
     "course": "kansei"
+  },
+  {
+    "id": "ota",
+    "name": "太田研究室",
+    "course": "kansei"
+  },
+  {
+    "id": "nagai",
+    "name": "永井研究室",
+    "course": "seikastu"
+  },
+  {
+    "id": "masuyama",
+    "name": "益山研究室",
+    "course": "seikastu"
+  },
+  {
+    "id": "kayahara",
+    "name": "茅原研究室",
+    "course": "kansei"
   }
 ]
