@@ -36,9 +36,9 @@
 
   export let data;
 
-  const title = "宮城大学 2023年度 卒業研究・制作展";
+  const title = "宮城大学 2024年度 卒業研究・制作展";
   const description =
-    "2023年度 宮城大学 事業構想学群 価値創造デザイン学類 卒業研究・制作展 + 宮城大学院 事業構想学研究科 修士 制作展";
+    "2024年度 宮城大学 事業構想学群 価値創造デザイン学類 卒業研究・制作展 + 宮城大学院 事業構想学研究科 修士 制作展";
 </script>
 
 <svelte:head>
@@ -48,7 +48,7 @@
   <meta property="og:description" content={description} />
   <meta property="og:url" content={PUBLIC_BASE_URL} />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content={`${PUBLIC_BASE_URL}/ogp.png`} />
+  <meta property="og:image" content={`${PUBLIC_BASE_URL}/top-pc.png`} />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="宮城大学 デザインポータル" />
   <meta name="twitter:card" content="summary_large_image" />
