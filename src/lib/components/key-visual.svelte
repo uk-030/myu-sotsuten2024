@@ -9,4 +9,9 @@
     alt="背景画像"
     class="h-full w-full object-cover md:hidden"
   />
+  <img
+	  src="./title-v2.png"
+	  alt="タイトル画像"
+	  class="bg-secondary/50 title-img absolute right-6 top-0 md:max-w-[120vw] md:block sm:hidden"
+  />
 </section>
