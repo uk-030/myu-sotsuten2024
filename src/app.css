@@ -31,3 +31,9 @@
   transition: all 0.5s;
   transform: translateX(-50%) scaleX(0);
 }
+
+@media screen and (max-width: 460px) {
+    .sm\:hidden {
+        display: none
+    }
+}
