@@ -12,11 +12,11 @@
   <img
 　　src="./title-v2.png"
 　　alt="タイトル画像"
-　　class="bg-secondary/50 title-img absolute right-6 top-0 md:max-w-[120vw] md:block sm:hidden"
+　　class="bg-secondary/50 title-img absolute right-6 top-0 py-1 md:max-w-[120vw] md:block sm:hidden"
   />
   <img
 　　src="./title-v2-1.png"
 　　alt="タイトル画像"
-　　class="bg-secondary/50 title-img absolute right-6 top-0 p-7 md:max-w-[40vw] md:hidden "
+　　class="bg-secondary/50 title-img absolute right-6 top-0 p-8 py-7 md:max-w-[40vw] md:hidden "
   />
 </section>
