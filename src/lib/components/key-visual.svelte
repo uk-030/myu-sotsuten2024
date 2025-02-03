@@ -17,6 +17,6 @@
   <img
 　　src="./title-v2-1.png"
 　　alt="タイトル画像"
-　　class="bg-secondary/50 title-img absolute right-6 top-0 p-8 py-7 md:max-w-[40vw] md:hidden "
+　　class="bg-secondary/50 title-img absolute right-6 top-0 p-8 py-3 md:max-w-[40vw] md:hidden "
   />
 </section>
