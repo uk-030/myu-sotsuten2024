@@ -32,7 +32,7 @@
   transform: translateX(-50%) scaleX(0);
 }
 
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 740px) {
     .sm\:hidden {
         display: none
     }
