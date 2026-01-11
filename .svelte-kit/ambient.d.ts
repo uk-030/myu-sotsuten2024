@@ -21,7 +21,7 @@
  * 
  * You can override `.env` values from the command line like so:
  * 
- * ```bash
+ * ```sh
  * MY_FEATURE_FLAG="enabled" npm run dev
  * ```
  */
@@ -35,70 +35,42 @@ declare module '$env/static/private' {
 	export const COMPUTERNAME: string;
 	export const ComSpec: string;
 	export const DriverData: string;
-	export const FPS_BROWSER_APP_PROFILE_STRING: string;
-	export const FPS_BROWSER_USER_PROFILE_STRING: string;
+	export const EFC_11196_1592913036: string;
 	export const GIT_ASKPASS: string;
 	export const HOME: string;
 	export const HOMEDRIVE: string;
 	export const HOMEPATH: string;
 	export const INIT_CWD: string;
-	export const INTEL_DEV_REDIST: string;
 	export const LANG: string;
+	export const LEVEL_ZERO_V1_SDK_PATH: string;
 	export const LOCALAPPDATA: string;
 	export const LOGONSERVER: string;
-	export const MIC_LD_LIBRARY_PATH: string;
 	export const NODE: string;
 	export const NODE_ENV: string;
 	export const NODE_PATH: string;
 	export const npm_command: string;
 	export const npm_config_engine_strict: string;
 	export const npm_config_frozen_lockfile: string;
+	export const npm_config_globalconfig: string;
 	export const npm_config_node_gyp: string;
+	export const npm_config_npm_globalconfig: string;
 	export const npm_config_registry: string;
 	export const npm_config_user_agent: string;
+	export const npm_config_verify_deps_before_run: string;
+	export const npm_config__jsr_registry: string;
 	export const npm_execpath: string;
 	export const npm_lifecycle_event: string;
 	export const npm_lifecycle_script: string;
 	export const npm_node_execpath: string;
-	export const npm_package_dependencies_p5js: string;
-	export const npm_package_devDependencies_autoprefixer: string;
-	export const npm_package_devDependencies_eslint: string;
-	export const npm_package_devDependencies_eslint_config_prettier: string;
-	export const npm_package_devDependencies_eslint_plugin_svelte: string;
-	export const npm_package_devDependencies_postcss: string;
-	export const npm_package_devDependencies_prettier: string;
-	export const npm_package_devDependencies_prettier_plugin_svelte: string;
-	export const npm_package_devDependencies_prettier_plugin_tailwindcss: string;
-	export const npm_package_devDependencies_svelte: string;
-	export const npm_package_devDependencies_svelte_check: string;
-	export const npm_package_devDependencies_tailwindcss: string;
-	export const npm_package_devDependencies_tslib: string;
-	export const npm_package_devDependencies_typescript: string;
-	export const npm_package_devDependencies_vite: string;
-	export const npm_package_devDependencies__sveltejs_adapter_auto: string;
-	export const npm_package_devDependencies__sveltejs_adapter_static: string;
-	export const npm_package_devDependencies__sveltejs_kit: string;
-	export const npm_package_devDependencies__sveltejs_vite_plugin_svelte: string;
-	export const npm_package_devDependencies__typescript_eslint_eslint_plugin: string;
-	export const npm_package_devDependencies__typescript_eslint_parser: string;
-	export const npm_package_devDependencies__types_eslint: string;
+	export const npm_package_json: string;
 	export const npm_package_name: string;
-	export const npm_package_private: string;
-	export const npm_package_scripts_build: string;
-	export const npm_package_scripts_check: string;
-	export const npm_package_scripts_check_watch: string;
-	export const npm_package_scripts_dev: string;
-	export const npm_package_scripts_format: string;
-	export const npm_package_scripts_lint: string;
-	export const npm_package_scripts_preview: string;
-	export const npm_package_type: string;
 	export const npm_package_version: string;
 	export const NUMBER_OF_PROCESSORS: string;
 	export const OneDrive: string;
-	export const ORIGINAL_XDG_CURRENT_DESKTOP: string;
 	export const OS: string;
 	export const Path: string;
 	export const PATHEXT: string;
+	export const pnpm_config_verify_deps_before_run: string;
 	export const PNPM_SCRIPT_SRC_DIR: string;
 	export const PROCESSOR_ARCHITECTURE: string;
 	export const PROCESSOR_IDENTIFIER: string;
@@ -126,7 +98,9 @@ declare module '$env/static/private' {
 	export const VSCODE_GIT_ASKPASS_NODE: string;
 	export const VSCODE_GIT_IPC_HANDLE: string;
 	export const VSCODE_INJECTION: string;
+	export const VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 	export const windir: string;
+	export const ZES_ENABLE_SYSMAN: string;
 }
 
 /**
@@ -147,14 +121,12 @@ declare module '$env/static/public' {
  * 
  * This module cannot be imported into client-side code.
  * 
- * Dynamic environment variables cannot be used during prerendering.
- * 
  * ```ts
  * import { env } from '$env/dynamic/private';
  * console.log(env.DEPLOYMENT_SPECIFIC_VARIABLE);
  * ```
  * 
- * > In `dev`, `$env/dynamic` always includes environment variables from `.env`. In `prod`, this behavior will depend on your adapter.
+ * > [!NOTE] In `dev`, `$env/dynamic` always includes environment variables from `.env`. In `prod`, this behavior will depend on your adapter.
  */
 declare module '$env/dynamic/private' {
 	export const env: {
@@ -167,70 +139,42 @@ declare module '$env/dynamic/private' {
 		COMPUTERNAME: string;
 		ComSpec: string;
 		DriverData: string;
-		FPS_BROWSER_APP_PROFILE_STRING: string;
-		FPS_BROWSER_USER_PROFILE_STRING: string;
+		EFC_11196_1592913036: string;
 		GIT_ASKPASS: string;
 		HOME: string;
 		HOMEDRIVE: string;
 		HOMEPATH: string;
 		INIT_CWD: string;
-		INTEL_DEV_REDIST: string;
 		LANG: string;
+		LEVEL_ZERO_V1_SDK_PATH: string;
 		LOCALAPPDATA: string;
 		LOGONSERVER: string;
-		MIC_LD_LIBRARY_PATH: string;
 		NODE: string;
 		NODE_ENV: string;
 		NODE_PATH: string;
 		npm_command: string;
 		npm_config_engine_strict: string;
 		npm_config_frozen_lockfile: string;
+		npm_config_globalconfig: string;
 		npm_config_node_gyp: string;
+		npm_config_npm_globalconfig: string;
 		npm_config_registry: string;
 		npm_config_user_agent: string;
+		npm_config_verify_deps_before_run: string;
+		npm_config__jsr_registry: string;
 		npm_execpath: string;
 		npm_lifecycle_event: string;
 		npm_lifecycle_script: string;
 		npm_node_execpath: string;
-		npm_package_dependencies_p5js: string;
-		npm_package_devDependencies_autoprefixer: string;
-		npm_package_devDependencies_eslint: string;
-		npm_package_devDependencies_eslint_config_prettier: string;
-		npm_package_devDependencies_eslint_plugin_svelte: string;
-		npm_package_devDependencies_postcss: string;
-		npm_package_devDependencies_prettier: string;
-		npm_package_devDependencies_prettier_plugin_svelte: string;
-		npm_package_devDependencies_prettier_plugin_tailwindcss: string;
-		npm_package_devDependencies_svelte: string;
-		npm_package_devDependencies_svelte_check: string;
-		npm_package_devDependencies_tailwindcss: string;
-		npm_package_devDependencies_tslib: string;
-		npm_package_devDependencies_typescript: string;
-		npm_package_devDependencies_vite: string;
-		npm_package_devDependencies__sveltejs_adapter_auto: string;
-		npm_package_devDependencies__sveltejs_adapter_static: string;
-		npm_package_devDependencies__sveltejs_kit: string;
-		npm_package_devDependencies__sveltejs_vite_plugin_svelte: string;
-		npm_package_devDependencies__typescript_eslint_eslint_plugin: string;
-		npm_package_devDependencies__typescript_eslint_parser: string;
-		npm_package_devDependencies__types_eslint: string;
+		npm_package_json: string;
 		npm_package_name: string;
-		npm_package_private: string;
-		npm_package_scripts_build: string;
-		npm_package_scripts_check: string;
-		npm_package_scripts_check_watch: string;
-		npm_package_scripts_dev: string;
-		npm_package_scripts_format: string;
-		npm_package_scripts_lint: string;
-		npm_package_scripts_preview: string;
-		npm_package_type: string;
 		npm_package_version: string;
 		NUMBER_OF_PROCESSORS: string;
 		OneDrive: string;
-		ORIGINAL_XDG_CURRENT_DESKTOP: string;
 		OS: string;
 		Path: string;
 		PATHEXT: string;
+		pnpm_config_verify_deps_before_run: string;
 		PNPM_SCRIPT_SRC_DIR: string;
 		PROCESSOR_ARCHITECTURE: string;
 		PROCESSOR_IDENTIFIER: string;
@@ -258,7 +202,9 @@ declare module '$env/dynamic/private' {
 		VSCODE_GIT_ASKPASS_NODE: string;
 		VSCODE_GIT_IPC_HANDLE: string;
 		VSCODE_INJECTION: string;
+		VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 		windir: string;
+		ZES_ENABLE_SYSMAN: string;
 		[key: `PUBLIC_${string}`]: undefined;
 		[key: `${string}`]: string | undefined;
 	}
@@ -268,8 +214,6 @@ declare module '$env/dynamic/private' {
  * Similar to [`$env/dynamic/private`](https://svelte.dev/docs/kit/$env-dynamic-private), but only includes variables that begin with [`config.kit.env.publicPrefix`](https://svelte.dev/docs/kit/configuration#env) (which defaults to `PUBLIC_`), and can therefore safely be exposed to client-side code.
  * 
  * Note that public dynamic environment variables must all be sent from the server to the client, causing larger network requests — when possible, use `$env/static/public` instead.
- * 
- * Dynamic environment variables cannot be used during prerendering.
  * 
  * ```ts
  * import { env } from '$env/dynamic/public';
